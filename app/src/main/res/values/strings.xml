@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ScannerDummy</string>
+    <string name="fragment_scan_barcode_from_camera_scan_from_file">Scan image</string>
+    <string name="fragment_scan_barcode_from_camera_flash">Flash</string>
+</resources>
